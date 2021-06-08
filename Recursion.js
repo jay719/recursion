@@ -14,4 +14,4 @@ function reverse(str){
     }
 }
 
-reverse("test")
+reverse("tst")
